@@ -178,7 +178,7 @@ body {
 /* End header */
 /* Start Landing Section */
 .landing{
-    background-image: url(/images/pexels-pixabay-355747.jpg);
+    background-image: url(./images/pexels-pixabay-355747.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: inherit;
